@@ -1,0 +1,26 @@
+.jumbotron {
+    padding-top: 100px; 
+    padding-bottom: 75px;
+    padding-left, padding-right: 25px;
+    background-image: url(images/old_moon.png);
+}
+
+.container-fluid {
+    padding: 10px 40px; 
+}
+
+.myPhoto {
+	padding: 0px;
+	margin: 21px;
+}
+
+.row {
+	padding-bottom: 10px;
+	/*border-bottom: 3px;
+	border-bottom-style: solid;  */
+}
+
+#siteFooter {
+	   background-image: url(images/old_moon.png);
+}
+
